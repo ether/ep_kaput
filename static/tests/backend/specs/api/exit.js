@@ -6,11 +6,11 @@
 describe('ep_kaput - export size styles to HTML', function () {
   // create a new pad before each test run
   beforeEach(function (done) {
-    process.exit(1);
-    done();
+    process.exit(1); /* eslint-disable-line no-process-exit */
+    done(); /* eslint-disable-line no-unreachable */
   });
 
   context('when pad text has one size', function () {
-    process.exit(1);
+    process.exit(1); /* eslint-disable-line no-process-exit */
   });
 });

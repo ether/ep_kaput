@@ -25,5 +25,5 @@ exports.aceInitialized = (hookName, context) => {};
 exports.aceEditorCSS = () => ['ep_kaput/static/css/size.css'];
 
 exports.postToolbarInit = (hookName, context) => {
-  top.console.log("attempt to write to console top..")
+  top.console.log('attempt to write to console top..');
 };
