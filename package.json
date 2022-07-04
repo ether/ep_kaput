@@ -11,7 +11,7 @@
   "deprecated": false,
   "description": "Ach Nay!  A plugin designed to break Etherpad and make Etherpad gebrokt/kaput/fubared/b0rked<script src='alert(true)'></script>>foo",
   "devDependencies": {
-    "eslint": "^8.11.0",
+    "eslint": "^8.19.0",
     "eslint-config-etherpad": "^3.0.9",
     "typescript": "^4.6.2"
   },
