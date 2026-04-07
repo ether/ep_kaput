@@ -7,7 +7,7 @@ This plugin is designed to be malicious and if installed it's purpose is to cras
 ## Installation
 
 ```shell
-npm install ep_kaput
+pnpm run plugins install ep_kaput
 ```
 
 or Use the Etherpad ``/admin`` interface.
