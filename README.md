@@ -1,4 +1,4 @@
-![Publish Status](https://github.com/ether/ep_kaput/workflows/Node.js%20Package/badge.svg) ![Backend Tests Status](https://github.com/ether/ep_kaput/workflows/Backend%20tests/badge.svg)
+![Publish Status](https://github.com/ether/ep_kaput/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_kaput/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_kaput/actions/workflows/test-and-release.yml)
 
 # Try to brake Etherpad plugin system!
 
