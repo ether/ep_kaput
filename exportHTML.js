@@ -1,6 +1,6 @@
 'use strict';
 
-const eejs = require('ep_etherpad-lite/node/eejs/');
+const eejs = require('ep_etherpad-lite/node/eejs');
 
 // Add non-used props to be supported in export
 exports.exportHtmlAdditionalTagsWithData = async (hookName, pad) => {
